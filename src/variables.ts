@@ -1,0 +1,1 @@
+export const basePath = process.env.VITE_API_URL
